@@ -1,0 +1,7 @@
+altgraph==0.17.2
+evdev==1.4.0
+pyinstaller==4.5.1
+pyinstaller-hooks-contrib==2021.3
+pynput==1.7.3
+python-xlib==0.31
+six==1.16.0
